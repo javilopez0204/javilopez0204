@@ -24,7 +24,8 @@
 - International experience: stay in **Canada** 🌎  
 
 ## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/javier-l%C3%B3pez-ruiz/)  
+- [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/javier-lópez-ruiz/)
+[LinkedIn](https://www.linkedin.com/in/javier-l%C3%B3pez-ruiz/)  
 
 ---
 ✨ Always open to collaborating on projects related to **technology, AI, and electronics**.  
