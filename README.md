@@ -26,8 +26,9 @@
 ## 📫 Get in Touch
 <a href="https://www.linkedin.com/in/javier-lópez-ruiz/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle;"/>
-</a> [LinkedIn](https://www.linkedin.com/in/javier-l%C3%B3pez-ruiz/)
+</a> 
 
+[LinkedIn](https://www.linkedin.com/in/javier-l%C3%B3pez-ruiz/)  
 
 ---
 ✨ Always open to collaborating on projects related to **technology, AI, and electronics**.  
