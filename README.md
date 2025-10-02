@@ -24,10 +24,9 @@
 - International experience: stay in **Canada** 🌎  
 
 ## 📫 Get in Touch
-[LinkedIn](https://www.linkedin.com/in/javier-l%C3%B3pez-ruiz/)
 <a href="https://www.linkedin.com/in/javier-lópez-ruiz/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle;"/>
-</a> 
+</a> LinkedIn
 
   
 
