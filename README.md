@@ -25,8 +25,12 @@
 
 ## 📫 Get in Touch
 <a href="https://www.linkedin.com/in/javier-lópez-ruiz/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle;"/>
-</a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="vertical-align:middle;"/>
+</a>
+<a href="https://www.instagram.com/javi_lopez02_/">
+  <img src="https://www.svgrepo.com/svg/506668/instagram
+  " alt="LinkedIn" width="40" height="40" style="vertical-align:middle;"/>
+</a>
 
   
 
